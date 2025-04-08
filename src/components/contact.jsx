@@ -119,7 +119,7 @@ function Contact() {
                                             </div>
                                         </div>
                                         <div className="col-12">
-                                            <button type="submit" className="btn btn-primary w-100 py-2">
+                                            <button type="submit" className="bg-primary text-white w-100 py-2">
                                                 <i className="bi bi-send-fill"></i> Send Message
                                             </button>
                                         </div>                           
