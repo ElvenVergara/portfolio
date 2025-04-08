@@ -112,7 +112,8 @@ function Resume() {
                                     <section className="animate-on-scroll resume-summary-section resume-section">
                                         <h3 className="resume-section-heading text-uppercase py-2 py-lg-3 py-2 py-lg-3"><i className="resume-section-heading-icon bi bi-person me-2"></i>About Me</h3>
                                         <div className="resume-summary-desc">
-                                            I am a Full Stack Developer with 8 years of experience in Laravel, Vue.js, MySQL, and WordPress, specializing in building dynamic and scalable web applications.
+                                            I am a Full Stack Developer with 8 years of experience in PHP, Laravel,
+                                            Vue.js, React.js, TypeScript, MySQL, and WordPress specializing in building dynamic and scalable web applications.
                                              With expertise in both frontend and backend development, I have worked on government and private sector projects, including custom WordPress solutions, API integrations, document tracking systems, and online review platforms.
                                               I am proficient in server management, database optimization, and UI/UX design, ensuring high-performance and user-friendly applications. Passionate about problem-solving and automation, I continuously seek innovative ways to improve system efficiency and functionality.
                                         </div>
@@ -183,7 +184,7 @@ function Resume() {
                                                             <ul>
                                                                 <li>Amazon Web Services (AWS)</li>
                                                                 <li>Salesforce.com Development</li>
-                                                                <li>Vue.js, Laravel, WordPress</li>
+                                                                <li>Vue.js, React, TypeScript, Laravel, WordPress</li>
                                                                 <li>MySQL Database Optimization</li>
                                                                 <li>REST API Integrations</li>
                                                                 <li>WooCommerce Customization</li>
@@ -252,7 +253,7 @@ function Resume() {
                                                             
                                                             <h3 className="resume-position-title mb-1">Skills:</h3>
                                                             <ul>
-                                                                <li>Vue.js, Laravel, WordPress</li>
+                                                                <li>Vue.js, React, TypeScript, Laravel, WordPress</li>
                                                                 <li>MySQL Database Optimization</li>
                                                                 <li>REST API Integrations</li>
                                                                 <li>Server Deployment & Management</li>

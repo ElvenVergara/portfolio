@@ -103,7 +103,7 @@ function About() {
 							<center>
 							<div className="resume-summary-desc"> 
 								<p style={{width:'80%'}}>
-									I am a Full Stack Developer with 8 years of experience in Laravel, Vue.js, MySQL, and WordPress, specializing in building dynamic and scalable web applications.
+									I am a Full Stack Developer with 8 years of experience in Laravel, Vue.js, React.js, TypeScript, MySQL, and WordPress, specializing in building dynamic and scalable web applications.
 									With expertise in both frontend and backend development, I have worked on government and private sector projects, including custom WordPress solutions, API integrations, document tracking systems, and online review platforms.
 									I am proficient in server management, database optimization, and UI/UX design, ensuring high-performance and user-friendly applications. Passionate about problem-solving and automation, I continuously seek innovative ways to improve system efficiency and functionality.
 								</p>
