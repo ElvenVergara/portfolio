@@ -124,6 +124,72 @@ function Resume() {
                                     <section className="animate-on-scroll resume-experience-section resume-section">
                                         <h3 className="resume-section-heading text-uppercase py-2 py-lg-3 py-3"><i className="resume-section-heading-icon bi bi-briefcase me-2"></i>Work Experience</h3>
                                         <div className="resume-timeline position-relative">
+
+                                            <article className="animate-on-scroll resume-timeline-item position-relative pb-5">
+
+                                                <div className="resume-timeline-item-header mb-2">
+
+                                                    <div className="resume-position-meta d-flex justify-content-between mb-1">
+                                                        <div className="resume-position-time">June 2025 – Present</div>
+                                                    </div>
+
+                                                    <h3 className="resume-position-title mb-1">Web Developer</h3>
+
+                                                    <div className="resume-position-meta d-flex justify-content-between mb-1">
+                                                        <div className="resume-company-name">
+                                                            Rocket Station (Superstar Virtual Assistance Inc.) · Full-time
+                                                        </div>
+                                                        <div className="resume-position-time">(Remote)</div>
+                                                    </div>
+
+                                                    <div className="resume-position-meta mb-1">
+                                                        <div className="resume-position-time">
+                                                            20th Floor, Zuellig Building, Makati Avenue corner Paseo de Roxas, Makati City 1226, Philippines
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+
+                                                <div className="resume-timeline-item-desc">
+
+                                                    <div className="container">
+                                                        <p><strong>📍 Rocket Station | June 2025 – Present</strong></p>
+
+                                                        <h3 className="resume-position-title mb-1">Key Responsibilities:</h3>
+
+                                                        <ul className="resume-timeline-list">
+                                                            <li>Developed and maintained full-stack applications using Vue.js, Reactjs Laravel, and WordPress.</li>
+                                                            <li>Developed dynamic and interactive UI components using Vue.js, improving frontend performance and usability.</li>
+                                                            <li>Designed and optimized MySQL databases to support large datasets and complex relational queries.</li>
+                                                            <li>Built custom Elementor widgets, shortcodes, and backend tools to extend WordPress functionality.</li>
+                                                            <li>Improved site SEO and application performance through query optimization, caching strategies, and best practices.</li>
+                                                        </ul>
+
+                                                        <h3 className="resume-position-title mb-1">Key Achievements:</h3>
+
+                                                        <ul className="resume-timeline-list achievements">
+                                                            <li><strong>Interactive System:</strong> Built a scalable system for Wash100 nominees, increasing user engagement.</li>
+                                                            <li><strong>Enhanced UX:</strong> Developed Vue.js-powered profile and listing components for improved navigation.</li>
+                                                            <li><strong>Performance Improvements:</strong> Optimized database queries and caching, reducing page load times by up to 50%.</li>
+                                                        </ul>
+
+                                                        <h3 className="resume-position-title mb-1">Skills:</h3>
+
+                                                        <ul className="resume-timeline-list">
+                                                            <li>Vue.js, React, TypeScript, Laravel, WordPress</li>
+                                                            <li>MySQL Database Design & Optimization</li>
+                                                            <li>REST API & Third-Party Integrations</li>
+                                                            <li>SEO & Performance Optimization</li>
+                                                            <li>Server Deployment & Maintenance</li>
+                                                        </ul>
+                                                    </div>
+
+                                                </div>
+
+                                            </article>
+
+
+
                                             <article className="animate-on-scroll resume-timeline-item position-relative pb-5">
                                                 
                                                 <div className="resume-timeline-item-header mb-2">
@@ -394,6 +460,7 @@ function Resume() {
                                             <b className="item-heading mt-3">Database Management</b>
                                             <ul className="list-unstyled">
                                                 <li className="item-desc">MySQL (Schema Design, Optimization, Indexing)</li>
+                                                <li className="item-desc">PostgreSQL</li>
                                                 <li className="item-desc">SQL Queries & Performance Tuning</li>
                                                 <li className="item-desc">NoSQL (Firebase, MongoDB)</li>
                                             </ul>
@@ -457,6 +524,22 @@ function Resume() {
                                         <h3 className="resume-section-heading text-uppercase py-2 py-lg-3 py-3">
                                             <i className="resume-section-heading-icon bi bi-code-slash me-2"></i>Projects
                                         </h3>
+
+
+                                        <div className="item">
+                                            <h4 className="item-heading">
+                                                <i className="item-icon bi bi-square-fill me-2"></i>
+                                                <a href="https://govconindex.com" target="_blank">AVM International Online</a>
+                                            </h4>
+                                            <div className="item-desc">
+                                                An MLM system designed to handle complex computations, high-volume transactions, and massive datasets.
+                                                The platform supports binary and unilevel compensation structures,
+                                                it implements multi-tier payouts, overrides and rank-based incentives calculations.
+                                                <br/><strong>Tech Stack:</strong> Laravel, Vue.js, MySql, Tailwind Css
+                                            </div>
+                                        </div>
+
+
                                     
                                         <div className="item">
                                             <h4 className="item-heading">

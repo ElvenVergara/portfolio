@@ -88,6 +88,8 @@ function Projects() {
 									
 
 									<div class="row">
+
+
 										<div class="col-md-6 col-lg-4 text-md-center">
 											<div class="item-icon-holder mx-md-auto"><i class="bi bi-newspaper fs-1 text-primary"></i></div>
 											<h4 class="item-title mb-3">ExecutiveBiz</h4>
@@ -231,7 +233,20 @@ function Projects() {
 								</p>
 
 								<div class="row gy-4">
-									
+
+																		
+									<div class="col-md-6 col-lg-4 text-center">
+										<div class="item-icon-holder mx-auto"><i class="bi bi-person fs-1 text-primary"></i></div>
+										<h4 class="item-title mb-3">AVM International Online</h4>
+										<p class="item-desc">
+											An MLM system designed to handle complex computations, high-volume transactions, and massive datasets.
+											The platform supports binary and unilevel compensation structures,
+											it implements multi-tier payouts, overrides and rank-based incentives calculations.
+										</p>
+										<p><strong>Tech Stack:</strong> Laravel, Vue.js, MySQL, Tailwind Css</p>
+									</div>
+
+
 									<div class="col-md-6 col-lg-4 text-center">
 										<div class="item-icon-holder mx-auto"><i class="bi bi-book fs-1 text-primary"></i></div>
 										<h4 class="item-title mb-3">MaxRevOne Online Review System</h4>
@@ -279,17 +294,7 @@ function Projects() {
 										<p><strong>Tech Stack:</strong> Laravel, Vue.js, MySQL, Bulma, JavaScript, jQuery</p>
 									</div>
 
-									<div class="col-md-6 col-lg-4 text-center">
-										<div class="item-icon-holder mx-auto"><i class="bi bi-file-earmark-text fs-1 text-primary"></i></div>
-										<h4 class="item-title mb-3">DOLE RO VIII Systems</h4>
-										<p class="item-desc">
-											Developed a document tracking system for government use. 
-											Automated workflow processes to improve efficiency and created a reporting module 
-											for performance analysis. This system streamlined document management for the Department of Labor 
-											and Employment, enhancing operational productivity.
-										</p>
-										<p><strong>Tech Stack:</strong> Laravel, Vue.js, MySQL, Bulma, JavaScript, jQuery</p>
-									</div>
+									
 								</div>
 							</div>
 						</section>

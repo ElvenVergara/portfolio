@@ -47,6 +47,7 @@ import logo36 from "../assets/images/logos/36.png";
 import logo37 from "../assets/images/logos/37.png";
 import logo41 from "../assets/images/logos/41.png";
 import logo42 from "../assets/images/logos/42.png";
+import logo43 from "../assets/images/logos/43.png";
 
 
 
@@ -54,7 +55,7 @@ function About() {
 
 	const [alllogo, setAlllogo] = useState([
 		logo1, logo2, logo3, logo4, logo41, logo42, logo5, logo6, logo7, logo8,
-		logo9, logo10, logo11, logo12, logo13, logo14, logo15, logo16,
+		logo9, logo10, logo11, logo12, logo13, logo14, logo15, logo16, logo43,
 		logo17, logo18, logo19, logo20, logo21, logo22, logo23, logo24,
 		logo25, logo26, logo27, logo28, logo29, logo30, logo31, logo32,
 		logo33, logo34, logo35, logo36, logo37
