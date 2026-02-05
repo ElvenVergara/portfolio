@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Vite build output (only track if you want in gh-pages manually)
+dist/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# gh-pages cache (created by gh-pages package)
+.cache/
