@@ -165,14 +165,6 @@ function Resume() {
                                                             <li>Improved site SEO and application performance through query optimization, caching strategies, and best practices.</li>
                                                         </ul>
 
-                                                        <h3 className="resume-position-title mb-1">Key Achievements:</h3>
-
-                                                        <ul className="resume-timeline-list achievements">
-                                                            <li><strong>Interactive System:</strong> Built a scalable system for Wash100 nominees, increasing user engagement.</li>
-                                                            <li><strong>Enhanced UX:</strong> Developed Vue.js-powered profile and listing components for improved navigation.</li>
-                                                            <li><strong>Performance Improvements:</strong> Optimized database queries and caching, reducing page load times by up to 50%.</li>
-                                                        </ul>
-
                                                         <h3 className="resume-position-title mb-1">Skills:</h3>
 
                                                         <ul className="resume-timeline-list">
